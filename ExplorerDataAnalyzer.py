@@ -185,7 +185,7 @@ def explorerAnalysis():
         # You will want to change the values in this list or simply create an external list and import it
 
         ## CHANGE NEEDED ##
-        knownScanPorts = [21, 22, 23, 25, 53, 80, 110, 111, 135, 139, 443, 445, 1173, 17472, 3306, 3389, 5060, 5061, 8080, 9100]
+        knownScanPorts = [21, 22, 23, 25, 53, 80, 110, 111, 135, 139, 443, 445, 3306, 3389, 8080, 9100, 8443]
 
         # This is the providing port information that writes to the main output file
 
