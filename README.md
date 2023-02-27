@@ -13,10 +13,10 @@ You will want to change to customize your tool before you make it an executable.
 
 When you first run this script a python UI should open and ask for an Employee ID, App ID, and file from a selector.
 When the script executes successfully it will dump the output files into the directory it lives in.
-The output files will be nameda accordingly:
-	- AnalysisReport-<application id>
-	- HighFlowsReport-<application id>
-	- ScanDetectReport-<application id>
+
+The output files will be nameda accordingly with an example application ID of 123456:
+
+AnalysisReport-123456, HighFlowsReport-123456, ScanDetectReport-123456
 
 # Contributing
 
