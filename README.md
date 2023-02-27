@@ -6,7 +6,18 @@ The purpose of this tool is to help people identify particular traffic patterns 
 # Installation
 
 This script can be used as a simple python file or you can utilize the executable as an all-in-one package. Keep in mind there are variables
-You will want to change to customize your tool before you make it an executable. 
+you will want to change to customize your tool before you make it an executable. 
+
+This tool will look for an list the following illumio explorer data information:
+- Highest, lowest, mean, and total flow count
+- Traffic with a providing process
+- Traffic with a providing user
+- Provider port information
+- SSH and RDP traffic observed
+- F5 Self-IPs for a range you need to specify (by default .5-.10)
+- Application Deployment example application with example application labels for Jenkins and uDeploy
+- Ports with 1000+ flows seen
+- Scan traffic for a presented range of ports (example provided)
 
 The variables and pieces of code you will want to customize are marked with "## CHANGE NEEDED ##"
 
