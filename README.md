@@ -6,7 +6,9 @@ The purpose of this tool is to help people identify particular traffic patterns 
 # Installation
 
 This script can be used as a simple python file or you can utilize the executable as an all-in-one package. Keep in mind there are variables
-You will want to change to customize your tool before you make it an executable.  
+You will want to change to customize your tool before you make it an executable. 
+
+The variables and pieces of code you will want to customize are marked with "## CHANGE NEEDED ##"
 
 
 # Usage
