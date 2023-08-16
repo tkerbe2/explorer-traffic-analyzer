@@ -1,7 +1,7 @@
 # Explorer Data Analyzer
 
 Explorer Data Analzyer is a Python script that can be used to analyze raw Explorer data from the illumio Core platform.
-The purpose of this tool is to help people identify particular traffic patterns for the purpose of building Micro-Segmentation policies.
+The purpose of this tool is to help people identify particular traffic patterns. Identifying these traffic patterns asists in building an accurate policy base and enforce Zero Trust Network principles.
 
 # Installation
 
