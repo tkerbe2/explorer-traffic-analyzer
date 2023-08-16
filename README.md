@@ -3,6 +3,11 @@
 Explorer Data Analzyer is a Python script that can be used to analyze raw Explorer data from the illumio Core platform.
 The purpose of this tool is to help people identify particular traffic patterns. Identifying these traffic patterns asists in building an accurate policy base and enforce Zero Trust Network principles.
 
+DISCLAIMER
+
+This tool is not officially supported, distributed, or maintained by illumio. The author of this tool claims no liability or responsibility for the correct/incorrect use/misuse of this tool. Use this tool at your own risk.
+
+
 # Installation
 
 This script can be used as a simple python file or you can utilize the executable as an all-in-one package. Keep in mind there are variables
